@@ -11,6 +11,7 @@ namespace Dados
         public string NomeUsuario { get; set; }
         public int Id { get; set; }
         public string Email { get; set; }
+        public string chupaaroldo { get; set; }
 
     }
 }
